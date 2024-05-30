@@ -18,4 +18,4 @@ This chatbot is designed to provide information about IIT Kharagpur admission pr
 - This chatbot was developed using Botpress: https://botpress.com/
 
 ## Link for the ChatBot
-You can use and test the ChatBot using the link, 
+You can use and test the ChatBot using the link,  https://manya2237.github.io/project-02-basic-Q-A-bot-for-college-admission/ .
